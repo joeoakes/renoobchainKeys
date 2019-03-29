@@ -1,1 +1,1 @@
-# reNoobChain
+# reNoobChain Supporting Public/Private Key Encryption
